@@ -1,0 +1,11 @@
+  
+{
+    "name": "hello-node",
+    "description": "Hello World NodeJs App",
+    "repository": "https://github.com/Melitta22/hw-hello-node",
+    "keywords": ["node", "heroku"],
+    "addons": ["heroku-postgresql:hobby-dev"],
+    "scripts": {
+        "test": "npm test"
+    }
+}
