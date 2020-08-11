@@ -1,0 +1,5 @@
+{
+    "name": "hello-node",
+    "description": "Hello World Node JS App",
+    "main": "server.js"
+}
